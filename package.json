@@ -1,0 +1,16 @@
+{
+  "name": "letsdeel-tracker",
+  "version": "1.0.0",
+  "description": "batch letsdeel.com tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yktv4",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "yargs": "^16.0.3"
+  }
+}
